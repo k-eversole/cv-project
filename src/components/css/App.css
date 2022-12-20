@@ -1,0 +1,27 @@
+body {
+    font-family: "Helvetica", Sans-Serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.App-header{
+    font-size: 35px;
+}
+
+.Component {
+    max-width: 650px;
+    padding: 25px;
+}
+
+.Sub-header{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
